@@ -11,4 +11,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   
-<img src="https://github.com/PriscilaKimura/We-Care-Responsivo/blob/main/img/img%20readme%20we%20care.jpg?raw=true"/> 
+<img src="https://raw.githubusercontent.com/PriscilaKimura/Congratulation-CSS/d5aba8b87e6f89ba61279165c4ab1531089cc8c2/img/img%20congratulation%20readme.jpg"/> 
